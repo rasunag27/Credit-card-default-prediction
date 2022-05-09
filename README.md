@@ -37,7 +37,7 @@ To predict whether or not the a consumer will default on thier credit card with 
 
 * The problem is implemented with unbalanced dataset itself.
 * Recommendation is such that the data showed be made balanced first by using upsampling, downsampling or SMOTE technique and then proceed for machine learning algorithms.
-* The metrics can be further imporved by using K-fold cross validation and so.
+* The metrics can be further improved by using K-fold cross validation and so.
 
 
 
